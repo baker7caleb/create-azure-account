@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Us74xWW.png" height="40%" width="40%" alt="Microsoft Azure Logo"/>
 </p>
 
-<h1>Create an Azure Account and Deploy a Virtual Machine</h1>
-Microsoft Azure is a cloud computing platform with various products and services. In this guide, I will teach you how to create an account, utilize the portal, and create a virtual machine.
+<h1>Create an Azure Account and a Virtual Machine</h1>
+Microsoft Azure is a cloud computing platform with various products and services. In this guide, I will teach you how to create an account, utilize the portal, and create a Virtual Machine within macOS.
 
 <h2>Environments and Technologies Used</h2>
 
